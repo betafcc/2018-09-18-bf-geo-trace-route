@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "2018-09-18-bf-geo-trace-route"
+version = "0.1.0"
+description = ""
+authors = [ "Beta Faccion <betafcc@gmail.com>" ]
+dev-dependencies = { }
+
+[tool.poetry.dependencies]
+python = "*"
+tornado = "<5"
+ipython = "^6.5"
+jupyterlab = "^0.34.10"
+numpy = "^1.15"
+pandas = "^0.23.4"
+matplotlib = "^2.2"
+altair = "^2.2"
+
+[tool.pandora]
+name = "Geo Trace Route"
+date = 2018-09-18T10:40:01.447Z
