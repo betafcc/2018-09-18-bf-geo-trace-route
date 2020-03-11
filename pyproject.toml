@@ -5,7 +5,7 @@ description = ""
 authors = [ "Beta Faccion <betafcc@gmail.com>" ]
 
 [tool.poetry.dependencies]
-python = "3.7"
+python = "^3.7"
 ipyleaflet = "^0.9.0"
 geoip2 = "^2.9"
 
